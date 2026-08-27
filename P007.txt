@@ -1,0 +1,8 @@
+Patient ID: P007
+Name: Kiran Das
+Age: 47
+Gender: Male
+Disease: Type 2 Diabetes
+Symptoms: Fatigue, frequent urination, increased thirst
+Diagnosis: Type 2 Diabetes
+Medical History: Previous history related to Type 2 Diabetes.
