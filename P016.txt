@@ -1,0 +1,8 @@
+Patient ID: P016
+Name: Pooja Singh
+Age: 31
+Gender: Female
+Disease: Migraine
+Symptoms: Headache, nausea, sensitivity to light
+Diagnosis: Migraine
+Medical History: Previous history related to Migraine.

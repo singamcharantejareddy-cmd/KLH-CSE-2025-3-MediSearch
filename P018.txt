@@ -1,0 +1,8 @@
+Patient ID: P018
+Name: Neha Gupta
+Age: 39
+Gender: Female
+Disease: Pneumonia
+Symptoms: Fever, cough, chest pain, breathing difficulty
+Diagnosis: Pneumonia
+Medical History: Previous history related to Pneumonia.

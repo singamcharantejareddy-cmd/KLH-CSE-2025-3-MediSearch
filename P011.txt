@@ -1,0 +1,8 @@
+Patient ID: P011
+Name: Suresh Babu
+Age: 58
+Gender: Male
+Disease: Hypertension
+Symptoms: Dizziness, headache, high blood pressure
+Diagnosis: Hypertension
+Medical History: Previous history related to Hypertension.
