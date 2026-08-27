@@ -1,0 +1,8 @@
+Patient ID: P005
+Name: Vikram Singh
+Age: 61
+Gender: Male
+Disease: Hypertension
+Symptoms: Headache, dizziness, chest discomfort
+Diagnosis: Hypertension
+Medical History: Previous history related to Hypertension.

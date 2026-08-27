@@ -1,0 +1,8 @@
+Patient ID: P009
+Name: Rahul Verma
+Age: 33
+Gender: Male
+Disease: Pneumonia
+Symptoms: Fever, cough, chest pain, difficulty breathing
+Diagnosis: Pneumonia
+Medical History: Previous history related to Pneumonia.

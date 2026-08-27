@@ -1,0 +1,8 @@
+Patient ID: P006
+Name: Ananya Patel
+Age: 36
+Gender: Female
+Disease: Migraine
+Symptoms: Severe headache, nausea, sensitivity to light
+Diagnosis: Migraine
+Medical History: Previous history related to Migraine.

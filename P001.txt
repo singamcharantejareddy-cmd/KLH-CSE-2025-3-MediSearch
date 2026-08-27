@@ -1,0 +1,8 @@
+Patient ID: P001
+Name: Ravi Kumar
+Age: 45
+Gender: Male
+Disease: Type 2 Diabetes
+Symptoms: Increased thirst, fatigue, frequent urination
+Diagnosis: Type 2 Diabetes
+Medical History: Previous history related to Type 2 Diabetes.

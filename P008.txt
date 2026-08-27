@@ -1,0 +1,8 @@
+Patient ID: P008
+Name: Meena Devi
+Age: 55
+Gender: Female
+Disease: Arthritis
+Symptoms: Joint pain, stiffness, swelling
+Diagnosis: Arthritis
+Medical History: Previous history related to Arthritis.

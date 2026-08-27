@@ -1,0 +1,8 @@
+Patient ID: P002
+Name: Priya Sharma
+Age: 42
+Gender: Female
+Disease: Hypertension
+Symptoms: Headache, dizziness, high blood pressure
+Diagnosis: Hypertension
+Medical History: Previous history related to Hypertension.
