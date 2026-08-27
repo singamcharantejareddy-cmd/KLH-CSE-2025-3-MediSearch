@@ -1,0 +1,8 @@
+Patient ID: P017
+Name: Harish Kumar
+Age: 63
+Gender: Male
+Disease: Arthritis
+Symptoms: Joint pain, swelling, stiffness
+Diagnosis: Arthritis
+Medical History: Previous history related to Arthritis.

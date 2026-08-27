@@ -1,0 +1,8 @@
+Patient ID: P019
+Name: Ajay Rao
+Age: 44
+Gender: Male
+Disease: Type 2 Diabetes
+Symptoms: Fatigue, high blood sugar, increased thirst
+Diagnosis: Type 2 Diabetes
+Medical History: Previous history related to Type 2 Diabetes.
