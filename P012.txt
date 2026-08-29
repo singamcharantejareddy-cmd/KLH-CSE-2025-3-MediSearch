@@ -1,8 +1,0 @@
-Patient ID: P012
-Name: Divya Menon
-Age: 27
-Gender: Female
-Disease: Asthma
-Symptoms: Wheezing, cough, chest tightness
-Diagnosis: Asthma
-Medical History: Previous history related to Asthma.

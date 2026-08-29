@@ -1,8 +1,0 @@
-Patient ID: P004
-Name: Sneha Rao
-Age: 29
-Gender: Female
-Disease: Asthma
-Symptoms: Cough, wheezing, shortness of breath
-Diagnosis: Asthma
-Medical History: Previous history related to Asthma.

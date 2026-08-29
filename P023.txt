@@ -1,8 +1,0 @@
-Patient ID: P013
-Name: Manoj Rao
-Age: 40
-Gender: Male
-Disease: Gastritis
-Symptoms: Stomach pain, nausea, acidity
-Diagnosis: Gastritis
-Medical History: Previous history related to Gastritis.
