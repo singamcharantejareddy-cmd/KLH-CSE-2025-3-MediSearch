@@ -1,8 +1,0 @@
-Patient ID: P015
-Name: Naveen Reddy
-Age: 46
-Gender: Male
-Disease: Hypertension
-Symptoms: Headache, dizziness, elevated blood pressure
-Diagnosis: Hypertension
-Medical History: Previous history related to Hypertension.
