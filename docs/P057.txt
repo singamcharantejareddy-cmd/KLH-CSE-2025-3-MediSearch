@@ -1,0 +1,57 @@
+========================================
+PATIENT MEDICAL RECORD
+========================================
+
+Patient ID      : P057
+Patient Name    : Rohan Kumar
+Age             : 39
+Gender          : Male
+Blood Group     : B-
+Department      : Orthopedics
+
+----------------------------------------
+CHIEF COMPLAINT
+----------------------------------------
+The patient reports joint pain, stiffness, and reduced mobility.
+Symptoms have been present for approximately 4 weeks.
+
+----------------------------------------
+SYMPTOMS
+----------------------------------------
+- Joint Pain
+- Stiffness
+- Reduced Mobility
+- Swelling
+
+----------------------------------------
+DIAGNOSIS
+----------------------------------------
+Osteoarthritis
+
+----------------------------------------
+LAB REPORTS
+----------------------------------------
+X-ray                 : Evaluated
+Joint examination     : Evaluated
+
+----------------------------------------
+PRESCRIPTION
+----------------------------------------
+- Paracetamol 500 mg
+- Physiotherapy
+
+----------------------------------------
+MEDICAL HISTORY
+----------------------------------------
+Family history reviewed. No major previous surgery reported.
+Previous outpatient treatment may be relevant to follow-up.
+
+----------------------------------------
+FOLLOW-UP
+----------------------------------------
+Follow-up recommended after 3 weeks.
+Continue monitoring symptoms and attend the scheduled review.
+
+========================================
+END OF RECORD
+========================================

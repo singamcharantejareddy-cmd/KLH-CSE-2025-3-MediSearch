@@ -1,0 +1,57 @@
+========================================
+PATIENT MEDICAL RECORD
+========================================
+
+Patient ID      : P001
+Patient Name    : Aarav Sharma
+Age             : 25
+Gender          : Male
+Blood Group     : B-
+Department      : General Medicine
+
+----------------------------------------
+CHIEF COMPLAINT
+----------------------------------------
+The patient reports increased thirst, frequent urination, and fatigue.
+Symptoms have been present for approximately 3 weeks.
+
+----------------------------------------
+SYMPTOMS
+----------------------------------------
+- Increased Thirst
+- Frequent Urination
+- Fatigue
+- Blurred Vision
+
+----------------------------------------
+DIAGNOSIS
+----------------------------------------
+Type 2 Diabetes Mellitus
+
+----------------------------------------
+LAB REPORTS
+----------------------------------------
+Fasting Blood Glucose : Evaluated
+HbA1c                 : Evaluated
+
+----------------------------------------
+PRESCRIPTION
+----------------------------------------
+- Metformin 500 mg
+- Dietary management
+
+----------------------------------------
+MEDICAL HISTORY
+----------------------------------------
+Family history reviewed. No major previous surgery reported.
+Previous outpatient treatment may be relevant to follow-up.
+
+----------------------------------------
+FOLLOW-UP
+----------------------------------------
+Follow-up recommended after 3 weeks.
+Continue monitoring symptoms and attend the scheduled review.
+
+========================================
+END OF RECORD
+========================================

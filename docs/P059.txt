@@ -1,0 +1,57 @@
+========================================
+PATIENT MEDICAL RECORD
+========================================
+
+Patient ID      : P059
+Patient Name    : Sneha Kumar
+Age             : 53
+Gender          : Male
+Blood Group     : A-
+Department      : Urology
+
+----------------------------------------
+CHIEF COMPLAINT
+----------------------------------------
+The patient reports burning urination, frequent urination, and lower abdominal pain.
+Symptoms have been present for approximately 6 weeks.
+
+----------------------------------------
+SYMPTOMS
+----------------------------------------
+- Burning Urination
+- Frequent Urination
+- Lower Abdominal Pain
+- Fever
+
+----------------------------------------
+DIAGNOSIS
+----------------------------------------
+Urinary Tract Infection
+
+----------------------------------------
+LAB REPORTS
+----------------------------------------
+Urinalysis            : Evaluated
+Urine culture         : Evaluated
+
+----------------------------------------
+PRESCRIPTION
+----------------------------------------
+- Antibiotic as prescribed
+- Increase fluids
+
+----------------------------------------
+MEDICAL HISTORY
+----------------------------------------
+Family history reviewed. No major previous surgery reported.
+Previous outpatient treatment may be relevant to follow-up.
+
+----------------------------------------
+FOLLOW-UP
+----------------------------------------
+Follow-up recommended after 5 weeks.
+Continue monitoring symptoms and attend the scheduled review.
+
+========================================
+END OF RECORD
+========================================

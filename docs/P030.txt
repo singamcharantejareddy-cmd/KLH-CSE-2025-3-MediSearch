@@ -1,0 +1,57 @@
+========================================
+PATIENT MEDICAL RECORD
+========================================
+
+Patient ID      : P030
+Patient Name    : Kiran Reddy
+Age             : 39
+Gender          : Female
+Blood Group     : B+
+Department      : Endocrinology
+
+----------------------------------------
+CHIEF COMPLAINT
+----------------------------------------
+The patient reports fatigue, weight changes, and cold intolerance.
+Symptoms have been present for approximately 2 weeks.
+
+----------------------------------------
+SYMPTOMS
+----------------------------------------
+- Fatigue
+- Weight Changes
+- Cold Intolerance
+- Dry Skin
+
+----------------------------------------
+DIAGNOSIS
+----------------------------------------
+Hypothyroidism
+
+----------------------------------------
+LAB REPORTS
+----------------------------------------
+TSH                   : Evaluated
+Free T4               : Evaluated
+
+----------------------------------------
+PRESCRIPTION
+----------------------------------------
+- Levothyroxine
+- Regular thyroid monitoring
+
+----------------------------------------
+MEDICAL HISTORY
+----------------------------------------
+Family history reviewed. No major previous surgery reported.
+Previous outpatient treatment may be relevant to follow-up.
+
+----------------------------------------
+FOLLOW-UP
+----------------------------------------
+Follow-up recommended after 4 weeks.
+Continue monitoring symptoms and attend the scheduled review.
+
+========================================
+END OF RECORD
+========================================
