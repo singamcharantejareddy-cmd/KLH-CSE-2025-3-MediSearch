@@ -1,0 +1,57 @@
+========================================
+PATIENT MEDICAL RECORD
+========================================
+
+Patient ID      : P136
+Patient Name    : Riya Singh
+Age             : 25
+Gender          : Female
+Blood Group     : A+
+Department      : General Medicine
+
+----------------------------------------
+CHIEF COMPLAINT
+----------------------------------------
+The patient reports fatigue, weakness, and pale skin.
+Symptoms have been present for approximately 3 weeks.
+
+----------------------------------------
+SYMPTOMS
+----------------------------------------
+- Fatigue
+- Weakness
+- Pale Skin
+- Dizziness
+
+----------------------------------------
+DIAGNOSIS
+----------------------------------------
+Iron Deficiency Anemia
+
+----------------------------------------
+LAB REPORTS
+----------------------------------------
+Hemoglobin            : Evaluated
+Serum Ferritin        : Evaluated
+
+----------------------------------------
+PRESCRIPTION
+----------------------------------------
+- Ferrous sulfate
+- Iron-rich diet
+
+----------------------------------------
+MEDICAL HISTORY
+----------------------------------------
+Family history reviewed. No major previous surgery reported.
+Previous outpatient treatment may be relevant to follow-up.
+
+----------------------------------------
+FOLLOW-UP
+----------------------------------------
+Follow-up recommended after 2 weeks.
+Continue monitoring symptoms and attend the scheduled review.
+
+========================================
+END OF RECORD
+========================================

@@ -1,0 +1,57 @@
+========================================
+PATIENT MEDICAL RECORD
+========================================
+
+Patient ID      : P092
+Patient Name    : Meera Rao
+Age             : 32
+Gender          : Female
+Blood Group     : O+
+Department      : Cardiology
+
+----------------------------------------
+CHIEF COMPLAINT
+----------------------------------------
+The patient reports headache, dizziness, and fatigue.
+Symptoms have been present for approximately 4 weeks.
+
+----------------------------------------
+SYMPTOMS
+----------------------------------------
+- Headache
+- Dizziness
+- Fatigue
+- Occasional Palpitations
+
+----------------------------------------
+DIAGNOSIS
+----------------------------------------
+Hypertension
+
+----------------------------------------
+LAB REPORTS
+----------------------------------------
+Blood Pressure        : Evaluated
+Lipid Profile         : Evaluated
+
+----------------------------------------
+PRESCRIPTION
+----------------------------------------
+- Amlodipine 5 mg
+- Low-sodium diet
+
+----------------------------------------
+MEDICAL HISTORY
+----------------------------------------
+Family history reviewed. No major previous surgery reported.
+Previous outpatient treatment may be relevant to follow-up.
+
+----------------------------------------
+FOLLOW-UP
+----------------------------------------
+Follow-up recommended after 2 weeks.
+Continue monitoring symptoms and attend the scheduled review.
+
+========================================
+END OF RECORD
+========================================

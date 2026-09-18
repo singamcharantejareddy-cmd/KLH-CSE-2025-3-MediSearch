@@ -1,0 +1,57 @@
+========================================
+PATIENT MEDICAL RECORD
+========================================
+
+Patient ID      : P083
+Patient Name    : Ananya Rao
+Age             : 32
+Gender          : Male
+Blood Group     : A-
+Department      : Pulmonology
+
+----------------------------------------
+CHIEF COMPLAINT
+----------------------------------------
+The patient reports wheezing, shortness of breath, and chest tightness.
+Symptoms have been present for approximately 5 weeks.
+
+----------------------------------------
+SYMPTOMS
+----------------------------------------
+- Wheezing
+- Shortness Of Breath
+- Chest Tightness
+- Cough
+
+----------------------------------------
+DIAGNOSIS
+----------------------------------------
+Bronchial Asthma
+
+----------------------------------------
+LAB REPORTS
+----------------------------------------
+Peak Expiratory Flow  : Evaluated
+Chest X-ray           : Evaluated
+
+----------------------------------------
+PRESCRIPTION
+----------------------------------------
+- Salbutamol inhaler
+- Avoid known triggers
+
+----------------------------------------
+MEDICAL HISTORY
+----------------------------------------
+Family history reviewed. No major previous surgery reported.
+Previous outpatient treatment may be relevant to follow-up.
+
+----------------------------------------
+FOLLOW-UP
+----------------------------------------
+Follow-up recommended after 5 weeks.
+Continue monitoring symptoms and attend the scheduled review.
+
+========================================
+END OF RECORD
+========================================

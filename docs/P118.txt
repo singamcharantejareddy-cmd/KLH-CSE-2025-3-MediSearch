@@ -1,0 +1,57 @@
+========================================
+PATIENT MEDICAL RECORD
+========================================
+
+Patient ID      : P118
+Patient Name    : Sanjay Verma
+Age             : 25
+Gender          : Female
+Blood Group     : B+
+Department      : Pulmonology
+
+----------------------------------------
+CHIEF COMPLAINT
+----------------------------------------
+The patient reports fever, cough, and chest pain.
+Symptoms have been present for approximately 5 weeks.
+
+----------------------------------------
+SYMPTOMS
+----------------------------------------
+- Fever
+- Cough
+- Chest Pain
+- Shortness Of Breath
+
+----------------------------------------
+DIAGNOSIS
+----------------------------------------
+Pneumonia
+
+----------------------------------------
+LAB REPORTS
+----------------------------------------
+Chest X-ray           : Evaluated
+CBC                   : Evaluated
+
+----------------------------------------
+PRESCRIPTION
+----------------------------------------
+- Antibiotic as prescribed
+- Adequate fluids
+
+----------------------------------------
+MEDICAL HISTORY
+----------------------------------------
+Family history reviewed. No major previous surgery reported.
+Previous outpatient treatment may be relevant to follow-up.
+
+----------------------------------------
+FOLLOW-UP
+----------------------------------------
+Follow-up recommended after 4 weeks.
+Continue monitoring symptoms and attend the scheduled review.
+
+========================================
+END OF RECORD
+========================================

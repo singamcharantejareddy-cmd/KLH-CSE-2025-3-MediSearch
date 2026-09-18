@@ -1,0 +1,57 @@
+========================================
+PATIENT MEDICAL RECORD
+========================================
+
+Patient ID      : P135
+Patient Name    : Rahul Singh
+Age             : 18
+Gender          : Male
+Blood Group     : O-
+Department      : Gastroenterology
+
+----------------------------------------
+CHIEF COMPLAINT
+----------------------------------------
+The patient reports abdominal pain, heartburn, and nausea.
+Symptoms have been present for approximately 2 weeks.
+
+----------------------------------------
+SYMPTOMS
+----------------------------------------
+- Abdominal Pain
+- Heartburn
+- Nausea
+- Bloating
+
+----------------------------------------
+DIAGNOSIS
+----------------------------------------
+Gastritis
+
+----------------------------------------
+LAB REPORTS
+----------------------------------------
+CBC                   : Evaluated
+Stool examination     : Evaluated
+
+----------------------------------------
+PRESCRIPTION
+----------------------------------------
+- Pantoprazole 40 mg
+- Avoid spicy foods
+
+----------------------------------------
+MEDICAL HISTORY
+----------------------------------------
+Family history reviewed. No major previous surgery reported.
+Previous outpatient treatment may be relevant to follow-up.
+
+----------------------------------------
+FOLLOW-UP
+----------------------------------------
+Follow-up recommended after 5 weeks.
+Continue monitoring symptoms and attend the scheduled review.
+
+========================================
+END OF RECORD
+========================================
